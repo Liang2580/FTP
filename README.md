@@ -1,7 +1,5 @@
-# liang
 
-
-这是一个python 的FTP的一个小玩意
+#这是一个python 的FTP的一个小玩意
 
 运行的话。 Server 端的方式是这样的
 
